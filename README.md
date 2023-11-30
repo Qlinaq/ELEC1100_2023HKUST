@@ -1,29 +1,18 @@
 # ELEC1100_2023HKUST
 # My Project
-This is the final project code for ELEC 1100 in 2023 semester, which is completed by 2 people (Lin and Wu) from Group 6.
+This is the final project code for ELEC 1100 in the 2023 semester, completed by Lin and Wu from Group 6. The objective of the project was to enable the car to complete a map within 20 seconds.
 
-The goal for full mark is to let the car finish running on a map in 20 seconds.
+The map, which is depicted below, served as the basis for the project。
 
-The map is shown below.
+The entire program was implemented using Arduino. While the coding aspect did pose some challenges, the main difficulties arose from the car's battery instability and determining the optimal distance between the two sensors.
 
-The whole program was run in Arduino. The most difficult part wasn't the code, but the instability of the car’s battery and the appropriate distance between 2 sensors.
-We had failed in the early demo although we have tested the car quite a few times. To avoid the changes of battery, we did not charge it, but it turned out ‘overcharged’ and the car left the white line.
+During the initial demo, we encountered failure despite having tested the car multiple times. To prevent any changes to the battery, we decided not to charge it. 
 
-The most ridiculous thing about the project is that we had debugged our code for nearly 5 hours, but mistakes appeared in different ways. However, it ran successfully after Wu angrily bended the sensors.
+Unfortunately, this decision led to the battery becoming "overcharged," causing the car to veer off the white line.
 
-So this was totally “Xuan Xue”
-This is the final project code for ELEC 1100 in 2023 semester, which is completed by 2 people (Lin and Wu) from Group 6.
+The most ridiculous aspect of the project was that, despite spending nearly 5 hours debugging the code, errors kept manifesting in different ways. However, we eventually achieved success when Wu angrily bent the sensors. It was an unexpected solution, but it worked!
 
-The goal for full mark is to let the car finish running on a map in 20 seconds.
-
-The map is shown below.
- 
-The whole program was run in Arduino. The most difficult part wasn’t the code, but the instability of the car’s battery and the appropriate distance between 2 sensors.
-We had failed in the early demo although we have tested the car quite a few times. To avoid the changes of battery, we didn’t charge it, but it turned out “overcharged” and the car left the white line.
-
-The most ridiculous thing about the project is that we had debugged our code for nearly 5 hours, but mistakes appeared in different ways. However, it ran successfully after Wu angrily bended the sensors.
-
-So this was totally “Xuan Xue”
+I can only tell that this was totally “Xuan Xue”
 
 ## Installation
 To install the project, follow these steps:
